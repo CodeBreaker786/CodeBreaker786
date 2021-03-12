@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**CodeBreaker786/CodeBreaker786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m Flutter working on ...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +923000071691...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
