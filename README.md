@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/nameles13716602" target="blank"><img src="https://img.shields.io/twitter/follow/nameles13716602?logo=twitter&style=for-the-badge" alt="nameles13716602" /></a> </p>
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeBreaker786](https://github.com/CodeBreaker786)
 
-- 💬 Ask me about **Flutter, Django Rest Framework, Raspberry Pi, IOT**
+- 💬 Ask me about **Flutter, DevOps, Django Rest Framework, Raspberry Pi, IOT**
 
 - 📫 How to reach me **codecrud360@gmail.com**
 
